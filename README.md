@@ -1,4 +1,4 @@
-# Oasis Infobyte — Task 2: Body Mass Index (BMI) Calculator Suite
+# Body Mass Index (BMI) Calculator Suite
 
 A complete Body Mass Index (BMI) tracking suite featuring **3 deployment options**:
 1. 🌐 **Web Application (`python app.py`)** — Full-stack browser application connected to SQLite with live trend graphs.
